@@ -135,3 +135,5 @@ This will do the following:
 A public Slack Workspace has been set-up where anyone can join and discuss new features, changes, feature requests or simply ask for help. Here's the invite link: 
 
 https://join.slack.com/t/slackpirate/shared_invite/enQtNTIyNjMxNDUyMzc0LTkzY2RkNGRlYTFiNWQ4OTYxMjYyZDRjZTAxZmEyNzAwZWVkYmVmZjk2MzJmYWQ5ODI4MmYxNmQyNDk2OTQ3MTQ
+
+check
